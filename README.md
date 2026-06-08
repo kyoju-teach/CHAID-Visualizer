@@ -10,4 +10,4 @@ CHAID分析を可視化するPythonコードです。
 
 ## 出力例
 
-後で画像を追加予定
+![CHAID結果](images/chaid_result.png)
