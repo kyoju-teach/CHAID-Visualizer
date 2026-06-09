@@ -18,3 +18,22 @@ PythonでSPSS風のCHAID分析結果を可視化するツールです。
 - 日本語データ対応
 - PNG形式で出力可能
 - Jupyter Notebookのみで実行可能
+
+## 利用シーン
+
+- 顧客セグメント分析
+- 継続要因分析
+- 課金要因分析
+- マーケティング分析
+
+## 実行環境
+
+Python 3.11
+
+## 必要ライブラリ
+
+- pandas
+- numpy
+- scipy
+- graphviz
+- matplotlib
