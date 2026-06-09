@@ -4,7 +4,7 @@ PythonでSPSS風のCHAID分析結果を可視化するツールです。
 
 ノード内にクラス分布の棒グラフを表示し、Graphvizを利用して見やすいCHAIDツリーを出力できます。
 
-![CHAID結果](images/chaid_result.png)
+![CHAID結果](images/chaid_result.PNG)
 
 ---
 
